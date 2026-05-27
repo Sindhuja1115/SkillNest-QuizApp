@@ -85,8 +85,7 @@ Make sure MySQL is running and the credentials match the `.env` file.
 
 ## 📂 Folder Structure
 ```
-Quiz-App/
-├─ .env                # environment variables
+Quiz-App/            
 ├─ manage.py           # Django CLI
 ├─ requirements.txt   # Python deps
 ├─ quizbackend/       # Django project
@@ -99,7 +98,7 @@ Quiz-App/
 │   │   ├─ pages/    # Dashboard, Login, Signup, Quiz, Result
 │   │   └─ App.js
 │   ├─ package.json
-│   └─ README.md       # (this file is now at project root)
+│         
 └─ README.md          # Project documentation (this file)
 ```
 
