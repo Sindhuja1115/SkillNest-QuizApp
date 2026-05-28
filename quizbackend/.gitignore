@@ -2,9 +2,6 @@
 __pycache__/
 *.pyc
 
-# Database file (only if using sqlite)
-db.sqlite3
-
 # Virtual environment
 venv/
 
