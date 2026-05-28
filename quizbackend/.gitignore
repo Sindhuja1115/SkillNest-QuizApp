@@ -2,9 +2,12 @@
 __pycache__/
 *.pyc
 
+<<<<<<< HEAD
 # Database file (only if using sqlite)
 
 
+=======
+>>>>>>> 0d9a5f9bcddab4be70bf0a40b60ec97726761658
 # Virtual environment
 venv/
 
