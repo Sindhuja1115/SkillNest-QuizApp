@@ -20,11 +20,11 @@ SkillNest is a full‑stack quiz platform that lets users sign up, log in, and t
 | Dev tools | npm, pip, python‑dotenv |
 ## 🖼️ UI Screenshots
 
-### Signup Page
-![Signup](images/signup.png)
-
 ### Login Page
 ![Login](images/login.png)
+
+### Signup Page
+![Signup](images/signup.png)
 
 ### Dashboard
 ![Dashboard](images/dashboard.png)
