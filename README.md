@@ -18,6 +18,34 @@ SkillNest is a full‑stack quiz platform that lets users sign up, log in, and t
 | Backend | Django 6, Django REST Framework, Simple JWT |
 | Database | MySQL 8 |
 | Dev tools | npm, pip, python‑dotenv |
+## 🖼️ UI Screenshots
+
+### Signup Page
+![Signup](images/signup.png)
+
+### Login Page
+![Login](images/login.png)
+
+### Dashboard
+![Dashboard](images/dashboard.png)
+
+### Dashboard 2
+![Dashboard2](images/dashboard2.png)
+
+### Test Page
+![Test](images/test.png)
+
+### Result Page
+![Result](images/result.png)
+
+### Review Page
+![Review](images/review.png)
+
+### Score Page
+![Score](images/score.png)
+
+### Performance Page
+![Performance](images/performance.png)
 
 ## 🚀 Setup Instructions
 ### Backend
