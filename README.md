@@ -38,14 +38,20 @@ SkillNest is a full‑stack quiz platform that lets users sign up, log in, and t
 ### Result Page
 ![Result](images/result.png)
 
-### Review Page
+### Review 
 ![Review](images/review.png)
 
-### Score Page
+### Score 
 ![Score](images/score.png)
 
-### Performance Page
+### Performance 
 ![Performance](images/performance.png)
+
+### Admin Login
+![Admin Login](images/admin-login.png)
+
+### Admin Dashboard
+![Admin Dashboard](images/admin-dashboard.png)
 
 ## 🚀 Setup Instructions
 ### Backend
